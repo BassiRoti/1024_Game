@@ -1,0 +1,4 @@
+u for UP
+d for DOWN
+L FOR LEFT
+r for RIGHT
